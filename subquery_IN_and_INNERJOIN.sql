@@ -1,3 +1,5 @@
+-- Return film id and titles of films that were returned on May 29, 2005
+
 SELECT film_id, title
 FROM film
 WHERE film_id IN
